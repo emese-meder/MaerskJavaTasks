@@ -9,7 +9,7 @@ Check if given Integer is palindrome or not. An integer is called palindrome if 
     2. Navigate to the App.java file in the project explorer
     3. Run the main method
 
-* Note: App.java can be found in Problem4_MaerskJavaTasks\RemoveDuplicates\src\main\java\com\spartaglobal\em\engineering50\App.java
+* Note: App.java can be found in Problem6_MaerskJavaTasks\IntegerPalindromes\src\main\java\com\spartaglobal\em\engineering50\App.java
 
 * In main, the isIntegerPalindrome() method accepts an integer as an input and returns True is the integer is a "palindrome" and False otherwise.
 
