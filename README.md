@@ -27,7 +27,7 @@
 
 ## Highlights
 
-Code Coverage on IntegerPalindrome class methods: 100% lines: 100%.
+* Code Coverage on IntegerPalindrome class methods: 100% lines: 100%.
 
 ## Improvements
 
